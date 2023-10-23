@@ -6,6 +6,8 @@
         flex-wrap: wrap;
         justify-content: center;
         margin-bottom: 60px;
+        align-items: center; /* Center the grid vertically */
+
 }
 .places h1 {
         width: 100%;
